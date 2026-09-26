@@ -6,9 +6,9 @@ the narration uses two open-source Piper text-to-speech voices. No image or vide
 
 **Warning:** the film contains rapid flashing and full-screen inversions.
 
-<a href="media/the_good_word_v2.mp4"><img src="media/preview.gif" width="540" alt="A 12-second excerpt from The Good Word (v2)"></a>
+<a href="media/the_good_word_v2.mp4?raw=true"><img src="media/preview.gif" width="540" alt="A 12-second excerpt from The Good Word (v2)"></a>
 
-[Watch the full film (76 seconds, with sound)](media/the_good_word_v2.mp4)
+[Download the full film (76 seconds, with sound, 9.4 MB)](media/the_good_word_v2.mp4?raw=true)
 
 ---
 
