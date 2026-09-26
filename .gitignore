@@ -1,0 +1,13 @@
+# downloaded assets (fetched by fetch_assets.sh)
+fonts/
+voices/
+# build outputs
+tts/*.wav
+stems2.npz
+score2.wav
+chunks/
+*.mp4
+*.png
+# python
+.venv/
+__pycache__/
