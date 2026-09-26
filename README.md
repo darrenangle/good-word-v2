@@ -38,10 +38,10 @@ Check it worked: `python3 --version`
 
 Check it worked: `ffmpeg -version`
 
-### 3. Unzip and open a terminal in the folder
+### 3. Download the code and open a terminal in the folder
 
-    unzip good_word_v2_code.zip
-    cd good_word_v2_code
+    git clone https://github.com/darrenangle/good-word-v2.git
+    cd good-word-v2
 
 ### 4. Create a virtual environment and install the Python packages
 
